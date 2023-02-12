@@ -8,20 +8,28 @@
   },
   "states": [
     {
-     "name": "default",
+     "name": "plain",
      "directions": 4
     },
     {
-     "name": "look1",
+     "name": "atlas",
      "directions": 4
     },
     {
-     "name": "look2",
+     "name": "luna",
      "directions": 4
     },
     {
-     "name": "look3",
+     "name": "monarch",
      "directions": 4
+    },
+    {
+      "name": "ragged",
+      "directions": 4
+    },
+    {
+      "name": "feathery",
+      "directions": 4
     }
   ]
 }
