@@ -50,16 +50,16 @@
     Tail:
       points: 1
       required: true
-      defaultMarkings: [ MothWingsDefault ]
+      defaultMarkings: [ MothWingsPlain ]
     Snout:
-      points: 1
-      required: true
-      defaultMarkings: [ MothAntennasDefault ]
+      points: 0
+      required: false
     HeadTop:
       points: 1
-      required: false
+      required: true
+      defaultMarkings: [ MothAntennasPlain ]
     HeadSide:
-      points: 1
+      points: 0
       required: false
 
 - type: humanoidBaseSprite

@@ -1,48 +1,85 @@
 # Antennas
 - type: marking
-  id: MothAntennasDefault
+  id: MothAntennasPlain
   bodyPart: HeadTop
   markingCategory: HeadTop
   speciesRestriction: [Moth]
   sprites:
-  - sprite: Nyanotrasen/Mobs/Customization/moth_parts.rsi
-    state: antenna_default
+  - sprite: Nyanotrasen/Mobs/Customization/moth_antennas.rsi
+    state: plain
+
+- type: marking
+  id: MothAntennasCurved
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: Nyanotrasen/Mobs/Customization/moth_antennas.rsi
+    state: curved
+
+- type: marking
+  id: MothAntennasLongCurved
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: Nyanotrasen/Mobs/Customization/moth_antennas.rsi
+    state: longcurved
+
 
 # Wings
 - type: marking
-  id: MothWingsDefault
+  id: MothWingsPlain
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Moth]
   sprites:
   - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
-    state: default
+    state: plain
 
 - type: marking
-  id: MothWingsLook1
+  id: MothWingsAtlas
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Moth]
   sprites:
   - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
-    state: look1
+    state: atlas
 
 - type: marking
-  id: MothWingsLook2
+  id: MothWingsLuna
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Moth]
   sprites:
   - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
-    state: look2
+    state: luna
 
 - type: marking
-  id: MothWingsLook3
+  id: MothWingsMonarch
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Moth]
   sprites:
   - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
-    state: look3
+    state: monarch
+
+- type: marking
+  id: MothWingsRagged
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
+    state: ragged
+
+- type: marking
+  id: MothWingsFeathery
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: Nyanotrasen/Mobs/Customization/moth_wings.rsi
+    state: feathery
 
 # Other markings
