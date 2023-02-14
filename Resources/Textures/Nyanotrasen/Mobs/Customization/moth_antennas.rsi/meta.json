@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "https://github.com/tgstation/tgstation/blob/master/icons/mob/species/moth/",
+  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/a92719210eb834cf284c571b3b3d94c2d82c26ea",
   "size": {
     "x": 32,
     "y": 32
@@ -85,18 +85,6 @@
     },
     {
       "name": "moffra",
-      "directions": 4
-    },
-    {
-      "name": "royalcustom",
-      "directions": 4
-    },
-    {
-      "name": "curved",
-      "directions": 4
-    },
-    {
-      "name": "longcurved",
       "directions": 4
     }
   ]
