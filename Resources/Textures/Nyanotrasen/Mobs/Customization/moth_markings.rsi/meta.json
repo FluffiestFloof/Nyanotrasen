@@ -318,34 +318,6 @@
     {
       "name": "witchking-lleg",
       "directions": 4
-    },
-    {
-      "name": "snow-head",
-      "directions": 4
-    },
-    {
-      "name": "snow-chest",
-      "directions": 4
-    },
-    {
-      "name": "snow-rarm",
-      "directions": 4
-    },
-    {
-      "name": "snow-larm",
-      "directions": 4
-    },
-    {
-      "name": "snow-rleg",
-      "directions": 4
-    },
-    {
-      "name": "snow-lleg",
-      "directions": 4
-    },
-    {
-      "name": "snow-head",
-      "directions": 4
     }
   ]
 }
