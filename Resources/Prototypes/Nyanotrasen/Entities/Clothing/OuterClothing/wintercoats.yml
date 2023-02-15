@@ -54,3 +54,14 @@
       sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/mantis_winter_coat.rsi
     - type: Clothing
       sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/mantis_winter_coat.rsi
+
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ClothingOuterWinterCoatMoth
+  name: mothic mantella
+  description: A thick garment that keeps warm and protects those precious wings from harsh weather. Feels much heavier than it looks.
+  components:
+  - type: Sprite
+    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/coatmoth.rsi
+  - type: Clothing
+    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/coatmoth.rsi
