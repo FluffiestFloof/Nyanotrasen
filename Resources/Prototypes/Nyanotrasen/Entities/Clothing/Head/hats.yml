@@ -145,3 +145,18 @@
     sprite: Nyanotrasen/Clothing/Head/Hats/prisonguard.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Head/Hats/prisonguard.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadMothCap
+  name: mothic softcap
+  description: A padded leather cap with goggles. Keeps your head warm and debris away from those big eyes.
+  components:
+  - type: Sprite
+    sprite: Nyanotrasen/Clothing/Head/Hats/mothcap.rsi
+  - type: Clothing
+    sprite: Nyanotrasen/Clothing/Head/Hats/mothcap.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Cold: 0.95
