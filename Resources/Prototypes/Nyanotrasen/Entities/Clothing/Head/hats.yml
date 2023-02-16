@@ -156,7 +156,7 @@
     sprite: Nyanotrasen/Clothing/Head/Hats/mothcap.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Head/Hats/mothcap.rsi
-  - type: Armor
+  - type: Armor #If aiming for eyes becomes a thing, should protect the eyes a bit
     modifiers:
       coefficients:
         Cold: 0.95

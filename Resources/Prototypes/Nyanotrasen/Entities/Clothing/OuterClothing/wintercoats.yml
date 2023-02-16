@@ -62,6 +62,6 @@
   description: A thick garment that keeps warm and protects those precious wings from harsh weather. Feels much heavier than it looks.
   components:
   - type: Sprite
-    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/coatmoth.rsi
+    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/moth_mantella.rsi
   - type: Clothing
-    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/coatmoth.rsi
+    sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/moth_mantella.rsi

@@ -17,3 +17,21 @@
         Heat: 0.8
   - type: TemperatureProtection
     coefficient: 0.3
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatMoth
+  name: mothic coat
+  description: This peculiar utility harness is a common sight among moth crew due to its ability to fasten the wings to the body without impacting mobility inside cramped ship interiors. It looks somewhat crude yet it's surprisingly comfortable.
+  components:
+  - type: Sprite
+    sprite: Nyanotrasen/Clothing/OuterClothing/Coats/moth_coat.rsi
+  - type: Clothing
+    sprite: Nyanotrasen/Clothing/OuterClothing/Coats/moth_coat.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Slash: 0.95
+        Heat: 0.9
+  - type: TemperatureProtection #Eventually hides and protect the wings from burning
+    coefficient: 0.3
